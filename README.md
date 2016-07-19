@@ -14,3 +14,5 @@ First in order to use a git fetch or a git rebase we need to have a remote for o
 git remote add origin git@github.com:torresga/learning-git.git
 ~~~
 
+
+This text was added by Jim, but it serves little purpose.
