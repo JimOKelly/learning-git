@@ -13,3 +13,5 @@ First in order to use a git fetch or a git rebase we need to have a remote for o
 ~~~ bash
 git remote add origin git@github.com:torresga/learning-git.git
 ~~~
+
+This is some text to take our branches out of sync, effectively making the pr1 branch 'behind' the master branch as the master branch now has newer changes than the pr1 branch.
